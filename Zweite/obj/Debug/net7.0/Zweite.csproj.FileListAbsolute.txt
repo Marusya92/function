@@ -1,0 +1,14 @@
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Zweite\bin\Debug\net7.0\Zweite.exe
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Zweite\bin\Debug\net7.0\Zweite.deps.json
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Zweite\bin\Debug\net7.0\Zweite.runtimeconfig.json
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Zweite\bin\Debug\net7.0\Zweite.dll
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Zweite\bin\Debug\net7.0\Zweite.pdb
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Zweite\obj\Debug\net7.0\Zweite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Zweite\obj\Debug\net7.0\Zweite.AssemblyInfoInputs.cache
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Zweite\obj\Debug\net7.0\Zweite.AssemblyInfo.cs
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Zweite\obj\Debug\net7.0\Zweite.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Zweite\obj\Debug\net7.0\Zweite.dll
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Zweite\obj\Debug\net7.0\refint\Zweite.dll
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Zweite\obj\Debug\net7.0\Zweite.pdb
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Zweite\obj\Debug\net7.0\Zweite.genruntimeconfig.cache
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Zweite\obj\Debug\net7.0\ref\Zweite.dll
