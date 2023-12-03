@@ -1,0 +1,14 @@
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Dritte\bin\Debug\net7.0\Dritte.exe
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Dritte\bin\Debug\net7.0\Dritte.deps.json
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Dritte\bin\Debug\net7.0\Dritte.runtimeconfig.json
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Dritte\bin\Debug\net7.0\Dritte.dll
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Dritte\bin\Debug\net7.0\Dritte.pdb
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Dritte\obj\Debug\net7.0\Dritte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Dritte\obj\Debug\net7.0\Dritte.AssemblyInfoInputs.cache
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Dritte\obj\Debug\net7.0\Dritte.AssemblyInfo.cs
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Dritte\obj\Debug\net7.0\Dritte.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Dritte\obj\Debug\net7.0\Dritte.dll
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Dritte\obj\Debug\net7.0\refint\Dritte.dll
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Dritte\obj\Debug\net7.0\Dritte.pdb
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Dritte\obj\Debug\net7.0\Dritte.genruntimeconfig.cache
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Dritte\obj\Debug\net7.0\ref\Dritte.dll
