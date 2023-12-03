@@ -1,0 +1,14 @@
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Erste\bin\Debug\net7.0\Erste.exe
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Erste\bin\Debug\net7.0\Erste.deps.json
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Erste\bin\Debug\net7.0\Erste.runtimeconfig.json
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Erste\bin\Debug\net7.0\Erste.dll
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Erste\bin\Debug\net7.0\Erste.pdb
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Erste\obj\Debug\net7.0\Erste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Erste\obj\Debug\net7.0\Erste.AssemblyInfoInputs.cache
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Erste\obj\Debug\net7.0\Erste.AssemblyInfo.cs
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Erste\obj\Debug\net7.0\Erste.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Erste\obj\Debug\net7.0\Erste.dll
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Erste\obj\Debug\net7.0\refint\Erste.dll
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Erste\obj\Debug\net7.0\Erste.pdb
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Erste\obj\Debug\net7.0\Erste.genruntimeconfig.cache
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\функции\Function\Erste\obj\Debug\net7.0\ref\Erste.dll
